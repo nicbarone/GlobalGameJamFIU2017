@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GITGAME.Plugins", "GITGAME.Plugins.csproj", "{A4C8691D-9D57-A791-DE48-06E5B0679D7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GITGAME.Editor.Plugins", "GITGAME.Editor.Plugins.csproj", "{39F7CC9C-BA79-0942-22A2-62FB81E45151}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4C8691D-9D57-A791-DE48-06E5B0679D7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4C8691D-9D57-A791-DE48-06E5B0679D7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4C8691D-9D57-A791-DE48-06E5B0679D7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4C8691D-9D57-A791-DE48-06E5B0679D7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39F7CC9C-BA79-0942-22A2-62FB81E45151}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39F7CC9C-BA79-0942-22A2-62FB81E45151}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39F7CC9C-BA79-0942-22A2-62FB81E45151}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39F7CC9C-BA79-0942-22A2-62FB81E45151}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
